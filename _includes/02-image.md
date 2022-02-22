@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a cute kitten](https://ukmadcat.com/wp-content/uploads/2019/04/sleepy-cat.jpg)
+
